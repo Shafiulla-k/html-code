@@ -2,4 +2,4 @@
 my html page
 <br>
 SHAFI
-<a href ="https://shafiulla-k.github.io/html-code/home.html">
+<a href="https://shafiulla-k.github.io/html-code/home.html">Visit Home Page</a>
